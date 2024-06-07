@@ -15,13 +15,13 @@ const musicLibrary = [
         title: "Flute Music",
         artist: "Artist",
         cover: "./marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg",
-        source: "C:/Users/Suhaina Fathima M/Downloads/dj-sonu-dj-kantik-rington-53712.mp3"
+        source: "./dj-sonu-dj-kantik-rington-53712.mp3"
     },
     {
         title: "Sparrow Music",
         artist: "Artist",
         cover: "./marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg",
-        source: "C:/Users/Suhaina Fathima M/Downloads/wakeup-alarm-tone-21497.mp3"
+        source: "./wakeup-alarm-tone-21497.mp3"
     }
 ];
 
